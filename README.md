@@ -1,6 +1,6 @@
 Student Information System 
 
-# Öğrenci Bilgi Sistemi Projesi
+# Ogrenci Bilgi Sistemi Projesi
 
 Bu proje, C dilinde basit bir öğrenci bilgi sistemi uygulamasını içerir. Program, öğrenci bilgilerini bir dosyada saklar ve kullanıcıya öğrenci ekleme, listeleme, güncelleme ve silme gibi temel işlemleri gerçekleştirme imkanı sunar.
 
